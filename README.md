@@ -1,4 +1,4 @@
-# Heart-Disease-Prediction-System
+# Heart-Attack-Prediction-System
 A Machine Learning-based system that predicts the risk of heart attack using clinical parameters. 
 Built with:
 
